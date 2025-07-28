@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nmingosrox
-- 👀 I’m interested in python, data science and embedded systems
+- 👀 I’m interested in python, data science, web development, trading financial markets and robotics
 - 🌱 I’m currently learning python data analysis
-- 💞️ I’m looking to collaborate on projects involving big data and any electrical engineering concepts
+- 💞️ I’m looking to collaborate on projects involving data analysis, ML, web development and any engineering concepts thatvcan be simplified with code.
 - 📫 contact me on fdomingos116@gmail.com
 
 <!---
