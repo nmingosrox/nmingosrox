@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nmingosrox
 - 👀 I’m interested in python, data science, web development, trading financial markets and robotics
-- 🌱 I’m currently learning python data analysis
+- 🌱 I specialize in python data analysis and web development.
 - 💞️ I’m looking to collaborate on projects involving data analysis, ML, web development and any engineering concepts thatvcan be simplified with code.
 - 📫 contact me on fdomingos116@gmail.com
 
